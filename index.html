@@ -683,14 +683,14 @@ function App() {
     }
   };
   useEffect(() => {
-    fetch("./data.json?_=" + Date.now()).then(r => {
+    fetch("./public/data.json?_=" + Date.now()).then(r => {
       if (!r.ok) throw 0;
       return r.json();
     }).then(d => {
       if (d && d.leagues) setPayload(d);
     }).catch(() => {}).finally(() => setLoading(false));
     const onVis = () => {
-      if (document.visibilityState === "visible") fetch("./data.json?_=" + Date.now()).then(r => r.ok ? r.json() : null).then(d => {
+      if (document.visibilityState === "visible") fetch("./public/data.json?_=" + Date.now()).then(r => r.ok ? r.json() : null).then(d => {
         if (d && d.leagues) setPayload(d);
       }).catch(() => {});
     };
