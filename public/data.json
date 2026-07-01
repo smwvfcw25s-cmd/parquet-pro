@@ -1,6 +1,6 @@
 {
-  "updated": "2026-06-30T09:00:00Z",
-  "updatedLabel": "30 jun 2026",
+  "updated": "2026-07-01T01:38:29.471054+00:00",
+  "updatedLabel": "1 jul 2026",
   "leagues": {
     "nba": {
       "champion": "New York Knicks",
@@ -183,91 +183,184 @@
       },
       "transfers": [
         [
-          "Miles Bridges",
-          "Traspaso a Phoenix",
-          "Charlotte",
-          "Phoenix Suns",
-          "Confirmado"
-        ],
-        [
-          "Marcus Smart",
-          "Acuerdo reportado a 3 años",
-          "Lakers",
-          "Houston Rockets",
-          "Reportado"
-        ],
-        [
           "Giannis Antetokounmpo",
-          "Traspaso bomba con Miami implicado",
-          "Milwaukee",
+          "Traspaso de Milwaukee a Miami: Herro, Ware, Jaquez Jr., Jakucionis + 3 picks 1ª ronda",
+          "Milwaukee Bucks",
           "Miami Heat",
-          "Reportado"
-        ],
-        [
-          "Jonas Valančiūnas",
-          "Saldría de la NBA rumbo a Žalgiris",
-          "Denver",
-          "Žalgiris",
-          "Reportado"
-        ],
-        [
-          "Kawhi Leonard",
-          "Rumores de traspaso",
-          "LA Clippers",
-          "Mavericks / Raptors",
-          "Rumor"
+          "Confirmado",
+          "2026-06-22"
         ],
         [
           "LeBron James",
-          "Agente libre, conversaciones con Lakers estancadas",
-          "Lakers",
-          "—",
-          "Rumor"
+          "Deja Los Ángeles Lakers como agente libre; Warriors favoritos (-500), Cavaliers y Heat en pugna",
+          "Los Angeles Lakers",
+          "Por determinar",
+          "Reportado",
+          "2026-06-30"
+        ],
+        [
+          "Kawhi Leonard",
+          "Traspaso de vuelta a Toronto; Clippers reciben Ingram, Dick y picks de 1ª ronda 2031/2033",
+          "LA Clippers",
+          "Toronto Raptors",
+          "Confirmado",
+          "2026-06-30"
+        ],
+        [
+          "LaMelo Ball",
+          "Traspaso a Minnesota; Charlotte recibe Naz Reid + 1 pick 1ª ronda 2033 + 3 swaps + 3 picks 2ª",
+          "Charlotte Hornets",
+          "Minnesota Timberwolves",
+          "Confirmado",
+          "2026-06-25"
+        ],
+        [
+          "Ja Morant",
+          "Traspaso a Portland a cambio de Jerami Grant y Kris Murray; dos años y ~87M$ restantes",
+          "Memphis Grizzlies",
+          "Portland Trail Blazers",
+          "Confirmado",
+          "2026-06-29"
+        ],
+        [
+          "Andrew Wiggins",
+          "Renueva con Miami 3 años / 64 M$ (incluye player option en año 3)",
+          "Miami Heat",
+          "Miami Heat",
+          "Acuerdo",
+          "2026-06-29"
+        ],
+        [
+          "Draymond Green",
+          "Declina player option de 27,7 M$ para generar espacio y perseguir a LeBron/AD en Golden State",
+          "Golden State Warriors",
+          "Agente libre",
+          "Confirmado",
+          "2026-06-29"
+        ],
+        [
+          "James Harden",
+          "Declina opción de 42,3 M$; negocia nuevo contrato multianual con Cleveland",
+          "Cleveland Cavaliers",
+          "Cleveland Cavaliers",
+          "Acuerdo",
+          "2026-06-29"
         ],
         [
           "Robert Williams III",
-          "Salida esperada de Portland",
-          "Portland",
-          "Lakers / Celtics",
-          "Rumor"
+          "Extensión 3 años / 44 M$ para seguir en Portland hasta 2028-29",
+          "Portland Trail Blazers",
+          "Portland Trail Blazers",
+          "Acuerdo",
+          "2026-06-30"
         ],
         [
-          "Naz Reid",
-          "Objetivo de los Lakers",
-          "Charlotte",
-          "Lakers",
-          "Rumor"
+          "Zach LaVine",
+          "Ejerce player option de 49 M$ para la temporada 2026-27 en Sacramento",
+          "Sacramento Kings",
+          "Sacramento Kings",
+          "Confirmado",
+          "2026-06-29"
+        ],
+        [
+          "Jalen Duren",
+          "Agente libre restringido; Pistons se niegan al sign-and-trade, pero Duren busca salida via Sacramento",
+          "Detroit Pistons",
+          "Detroit Pistons / Por determinar",
+          "Rumor",
+          "2026-06-30"
+        ],
+        [
+          "Anthony Davis",
+          "Vinculado a Golden State en traspaso (Wizards no escuchan ofertas actualmente)",
+          "Washington Wizards",
+          "Golden State Warriors",
+          "Rumor",
+          "2026-06-30"
         ]
       ],
       "coaches": [
         [
-          "Mike Brown",
-          "Campeón con los Knicks en su 1.ª temporada",
-          "New York Knicks",
-          "Actual"
+          "Taylor Jenkins",
+          "Nuevo entrenador de Milwaukee tras la dimisión de Doc Rivers; 250-214 en Memphis (2019-25)",
+          "Milwaukee Bucks",
+          "Nuevo",
+          "2026-04-30"
         ],
         [
-          "Portland Trail Blazers",
-          "Contratan nuevo entrenador (29 jun)",
-          "Portland",
-          "Nuevo"
+          "Billy Donovan",
+          "Dimite como entrenador de Chicago tras 6 temporadas; los Bulls inician reconstrucción",
+          "Chicago Bulls",
+          "Nuevo",
+          "2026-04-21"
+        ],
+        [
+          "Tiago Splitter",
+          "Contratado por Chicago tras dirigir Portland de forma interina (llevó a los Blazers a playoffs)",
+          "Chicago Bulls",
+          "Nuevo",
+          "2026-06-16"
+        ],
+        [
+          "Jamahl Mosley",
+          "Fichado por New Orleans tras ser despedido por Orlando en mayo; 189-221 en Magic",
+          "New Orleans Pelicans",
+          "Nuevo",
+          "2026-05-18"
+        ],
+        [
+          "Sean Sweeney",
+          "Nuevo entrenador de Orlando (asistente en San Antonio); firmó contrato de 4 años con los Magic",
+          "Orlando Magic",
+          "Nuevo",
+          "2026-06-01"
+        ],
+        [
+          "Dusty May",
+          "Ex-entrenador de Michigan (campeón NCAA 2026) contratado por Dallas tras la salida de Kidd",
+          "Dallas Mavericks",
+          "Nuevo",
+          "2026-06-23"
+        ],
+        [
+          "Jason Kidd",
+          "Separación mutua con los Mavericks tras 5 temporadas; llegó a las Finales NBA 2024",
+          "Dallas Mavericks",
+          "Nuevo",
+          "2026-05-19"
+        ],
+        [
+          "Doc Rivers",
+          "Dimite como entrenador de los Bucks tras temporada 32-50 y lesión de Giannis",
+          "Milwaukee Bucks",
+          "Nuevo",
+          "2026-04-13"
         ]
       ],
       "highlights": [
         [
-          "Knicks campeones",
-          "Nueva York gana su 3.º anillo, 1.º desde 1973, ante los Spurs (4-1)",
-          "TÍTULO"
+          "New York Knicks, Campeones NBA 2026",
+          "Los Knicks vencen 4-1 a los Spurs en las Finales; Jalen Brunson MVP (45 pts. en Game 5); primer título desde 1973",
+          "RESULTADO",
+          "2026-06-13"
         ],
         [
-          "OKC, muralla en el Oeste",
-          "Thunder cierran con el mejor balance (64-18)",
-          "RESULTADO"
+          "Giannis Antetokounmpo → Miami Heat",
+          "El doblete MVP abandona Milwaukee tras 14 años; llega junto a Bobby Portis a cambio de Herro, 4 jugadores y 3 picks de 1ª ronda",
+          "FICHAJE",
+          "2026-06-22"
         ],
         [
-          "Giannis, terremoto",
-          "Reportado un traspaso bomba con Miami en escena",
-          "FICHAJE"
+          "LeBron James abandona Los Angeles Lakers",
+          "El Rey deja los Lakers tras 8 temporadas (1 anillo); Warriors favoritos (-500) para ficharlo, también Cavaliers y Heat en pugna",
+          "FICHAJE",
+          "2026-06-30"
+        ],
+        [
+          "Kawhi Leonard regresa a Toronto Raptors",
+          "Los Clippers traspasan al alero All-NBA a los Raptors a cambio de Ingram, Dick y picks; Leonard quiere extenderse solo con Toronto",
+          "FICHAJE",
+          "2026-06-30"
         ]
       ],
       "sources": [
@@ -302,7 +395,320 @@
           "https://x.com/BobbyMarks42"
         ]
       ],
-      "rosters": {}
+      "rosters": {
+        "New York Knicks": [
+          [
+            "PG",
+            "Jalen Brunson",
+            "contrato hasta 2028"
+          ],
+          [
+            "SG",
+            "Miles McBride",
+            "contrato hasta 2027"
+          ],
+          [
+            "SG",
+            "Jose Alvarado",
+            "renovado 3 años ~$14M"
+          ],
+          [
+            "SF",
+            "Mikal Bridges",
+            "contrato hasta 2028"
+          ],
+          [
+            "SF",
+            "OG Anunoby",
+            "contrato hasta 2030"
+          ],
+          [
+            "SF",
+            "Landry Shamet",
+            "renovado 4 años $24M"
+          ],
+          [
+            "PF",
+            "Josh Hart",
+            "contrato hasta 2028"
+          ],
+          [
+            "C",
+            "Karl-Anthony Towns",
+            "contrato hasta 2030"
+          ],
+          [
+            "PG",
+            "Tyler Kolek",
+            "rookie hasta 2027"
+          ],
+          [
+            "SF",
+            "Pacome Dadiet",
+            "rookie hasta 2028"
+          ]
+        ],
+        "Oklahoma City Thunder": [
+          [
+            "PG",
+            "Shai Gilgeous-Alexander",
+            "extensión hasta 2031"
+          ],
+          [
+            "SG",
+            "Cason Wallace",
+            "hasta 2027"
+          ],
+          [
+            "SG",
+            "Luguentz Dort",
+            "opción equipo ejercida 26/27"
+          ],
+          [
+            "SG",
+            "Alex Caruso",
+            "hasta 2029"
+          ],
+          [
+            "SG",
+            "Isaiah Joe",
+            "hasta 2028"
+          ],
+          [
+            "SF",
+            "Jalen Williams",
+            "extensión desde 26/27 hasta 2030"
+          ],
+          [
+            "PF",
+            "Chet Holmgren",
+            "extensión desde 26/27 hasta 2030"
+          ],
+          [
+            "C",
+            "Isaiah Hartenstein",
+            "renovado 3 años $75M hasta 2029"
+          ],
+          [
+            "PG",
+            "Jared McCain",
+            "rookie hasta 2028"
+          ],
+          [
+            "C",
+            "Aday Mara",
+            "rookie draft 2026"
+          ]
+        ],
+        "Boston Celtics": [
+          [
+            "SF",
+            "Jayson Tatum",
+            "hasta 2030 ($58.5M)"
+          ],
+          [
+            "SF",
+            "Jaylen Brown",
+            "hasta 2029 ($57M)"
+          ],
+          [
+            "SG",
+            "Derrick White",
+            "hasta 2029 ($30.3M)"
+          ],
+          [
+            "SF",
+            "Sam Hauser",
+            "hasta 2029 ($10.8M)"
+          ],
+          [
+            "PG",
+            "Payton Pritchard",
+            "hasta 2027 ($7.8M)"
+          ],
+          [
+            "SF",
+            "Baylor Scheierman",
+            "rookie hasta 2028"
+          ],
+          [
+            "SF",
+            "Hugo Gonzalez",
+            "rookie hasta 2028"
+          ],
+          [
+            "C",
+            "Neemias Queta",
+            "opción equipo 26/27"
+          ],
+          [
+            "SF",
+            "Ron Harper Jr.",
+            "renovado extensión 3 años"
+          ],
+          [
+            "SG",
+            "Chris Cenac Jr.",
+            "rookie draft 2026"
+          ]
+        ],
+        "Miami Heat": [
+          [
+            "PF",
+            "Giannis Antetokounmpo",
+            "traspasado desde MIL, hasta 2030"
+          ],
+          [
+            "C",
+            "Bam Adebayo",
+            "hasta 2029 ($49.5M)"
+          ],
+          [
+            "PF",
+            "Bobby Portis",
+            "llegó en traspaso Giannis"
+          ],
+          [
+            "SF",
+            "Andrew Wiggins",
+            "optó + extensión 3 años $64M"
+          ],
+          [
+            "PG",
+            "Davion Mitchell",
+            "hasta 2028"
+          ],
+          [
+            "SF",
+            "Nikola Jovic",
+            "hasta 2028"
+          ],
+          [
+            "SF",
+            "Tim Hardaway Jr.",
+            "ficha 26/27"
+          ],
+          [
+            "SF",
+            "Simone Fontecchio",
+            "renovado 1 año"
+          ],
+          [
+            "SG",
+            "Dru Smith",
+            "hasta 2027"
+          ],
+          [
+            "PF",
+            "Myron Gardner",
+            "hasta 2027"
+          ]
+        ],
+        "San Antonio Spurs": [
+          [
+            "C",
+            "Victor Wembanyama",
+            "rookie hasta 2027 (extensión ~$301M pendiente)"
+          ],
+          [
+            "PG",
+            "De'Aaron Fox",
+            "hasta 2029 ($51M)"
+          ],
+          [
+            "PG",
+            "Dylan Harper",
+            "rookie hasta 2028"
+          ],
+          [
+            "PG",
+            "Stephon Castle",
+            "opción equipo ejercida"
+          ],
+          [
+            "SF",
+            "Julian Champagnie",
+            "renovado 3 años $45M"
+          ],
+          [
+            "PF",
+            "Harrison Barnes",
+            "renovado 1 año $8M"
+          ],
+          [
+            "SF",
+            "Keldon Johnson",
+            "hasta 2027 ($17.5M)"
+          ],
+          [
+            "PF",
+            "Devin Vassell",
+            "hasta 2028 ($27M)"
+          ],
+          [
+            "C",
+            "Luke Kornet",
+            "hasta 2029"
+          ],
+          [
+            "PF",
+            "Carter Bryant",
+            "rookie hasta 2028"
+          ]
+        ],
+        "Houston Rockets": [
+          [
+            "SF",
+            "Kevin Durant",
+            "hasta 2027 (traspasado 2025)"
+          ],
+          [
+            "C",
+            "Alperen Sengun",
+            "hasta 2029"
+          ],
+          [
+            "SF",
+            "Amen Thompson",
+            "hasta 2028"
+          ],
+          [
+            "PF",
+            "Jabari Smith Jr.",
+            "extensión hasta 2028"
+          ],
+          [
+            "PG",
+            "Fred VanVleet",
+            "optó player option $25M 26/27"
+          ],
+          [
+            "SF",
+            "Dorian Finney-Smith",
+            "hasta 2028"
+          ],
+          [
+            "PG",
+            "Reed Sheppard",
+            "rookie hasta 2028"
+          ],
+          [
+            "PF",
+            "Tari Eason",
+            "agente libre restringido (QO emitida)"
+          ],
+          [
+            "C",
+            "Clint Capela",
+            "hasta 2027"
+          ],
+          [
+            "SG",
+            "Jae'Sean Tate",
+            "hasta 2027"
+          ]
+        ]
+      }
     },
     "euroliga": {
       "champion": "Olympiacos",
@@ -396,180 +802,183 @@
       "transfers": [
         [
           "Shane Larkin",
-          "Fichaje estrella",
+          "Base bicampeón de Euroliga con Efes ficha por el rival turco en operación bomba",
           "Anadolu Efes",
-          "Fenerbahçe",
-          "Confirmado"
+          "Fenerbahçe Beko",
+          "Acuerdo",
+          "2026-06-25"
         ],
         [
           "Shavon Shields",
-          "Refuerzo exterior",
-          "Olimpia Milán",
-          "Fenerbahçe",
-          "Confirmado"
+          "Alero firma 2 años con el Fenerbahçe procedente del Olimpia Milano",
+          "EA7 Emporio Armani Milano",
+          "Fenerbahçe Beko",
+          "Confirmado",
+          "2026-06-25"
         ],
         [
-          "Jonas Valančiūnas",
-          "Acordado, pendiente de salir de la NBA",
-          "Denver (NBA)",
-          "Žalgiris",
-          "Acuerdo"
-        ],
-        [
-          "TJ Shorts",
-          "Cambio de gigante griego a la ACB",
-          "Panathinaikos",
+          "Brancou Badio",
+          "Panathinaikos paga 1,5 M€ de cláusula por el escolta senegalés; contrato 3 años/5 M€",
           "Valencia Basket",
-          "Confirmado"
+          "Panathinaikos",
+          "Confirmado",
+          "2026-06-26"
+        ],
+        [
+          "Braxton Key",
+          "Alero sale de Valencia y firma 2 años (1,1 M$/año) con el campeón turco",
+          "Valencia Basket",
+          "Fenerbahçé Beko",
+          "Acuerdo",
+          "2026-06-25"
         ],
         [
           "Matthew Strazel",
-          "Base internacional francés",
-          "AS Mónaco",
+          "Base francés firma con Efes tras ser descartado en la final francesa",
+          "AS Monaco",
           "Anadolu Efes",
-          "Confirmado"
+          "Confirmado",
+          "2026-06-22"
         ],
         [
-          "Dario Šarić",
-          "Regreso a Europa",
-          "NBA",
-          "Anadolu Efes",
-          "Confirmado"
+          "Ignas Sargiunas",
+          "Alero lituano firma 2 años (700.000 € en total) con Fenerbahçe, objetivo que también quería el Barça",
+          "Libre",
+          "Fenerbahçé Beko",
+          "Confirmado",
+          "2026-06-12"
         ],
         [
-          "Moustapha Fall",
-          "Pívot del campeón al rival",
-          "Olympiacos",
-          "Panathinaikos",
-          "Confirmado"
-        ],
-        [
-          "Bonzie Colson",
-          "Regresa a Tel Aviv",
-          "Fenerbahçe",
-          "Maccabi",
-          "Confirmado"
-        ],
-        [
-          "Johannes Thiemann",
-          "Campeón del mundo al Bayern",
-          "Partizan",
-          "Bayern Múnich",
-          "Confirmado"
-        ],
-        [
-          "DJ Stewart",
-          "Alero versátil",
-          "—",
-          "Baskonia",
-          "Confirmado"
-        ],
-        [
-          "Chris Jones",
-          "Base con experiencia",
-          "—",
-          "Crvena Zvezda",
-          "Confirmado"
-        ],
-        [
-          "Alec Peters",
-          "Ala-pívot tirador",
-          "Olympiacos",
-          "Olimpia Milán",
-          "Confirmado"
-        ],
-        [
-          "Jaime Pradilla",
-          "Oferta de 11M€ del Madrid",
-          "Valencia",
-          "Real Madrid",
-          "Rumor"
-        ],
-        [
-          "Nando De Colo",
-          "Se retira",
-          "—",
-          "—",
-          "Retiro"
-        ],
-        [
-          "Jan Vesely",
-          "Se retira",
+          "Moses Wright",
+          "Pívot ficha por el Barça Basket procedente del Zalgiris",
+          "Zalgiris Kaunas",
           "FC Barcelona",
-          "—",
-          "Retiro"
+          "Acuerdo",
+          "2026-06-30"
+        ],
+        [
+          "Sylvain Francisco",
+          "Base escolta abandona el Barça y ficha por el ASVEL de Tony Parker",
+          "FC Barcelona",
+          "LDLC ASVEL",
+          "Confirmado",
+          "2026-06-20"
+        ],
+        [
+          "D.J. Stewart",
+          "Escolta exterior firma con el Baskonia",
+          "Libre",
+          "Kosner Baskonia",
+          "Confirmado",
+          "2026-06-30"
+        ],
+        [
+          "Maxwell Lewis",
+          "Alero ex NBA ficha por el Zalgiris",
+          "Libre",
+          "Zalgiris Kaunas",
+          "Confirmado",
+          "2026-06-28"
+        ],
+        [
+          "Timothé Luwawu-Cabarrot",
+          "Alero francés en el radar del Real Madrid para el perímetro 26-27",
+          "LDLC ASVEL",
+          "Real Madrid",
+          "Rumor",
+          "2026-06-28"
+        ],
+        [
+          "Nadir Hifi",
+          "Escolta estrella (19 pts/pj en Euroliga) con conversaciones avanzadas con el Real Madrid",
+          "Libre",
+          "Real Madrid",
+          "Rumor",
+          "2026-06-25"
         ]
       ],
       "coaches": [
         [
-          "Željko Obradović",
-          "Nuevo entrenador (sale Ergin Ataman)",
-          "Panathinaikos",
-          "Nuevo"
+          "Pedro Martínez",
+          "El técnico catalán sustituye a Scariolo; Real Madrid paga su cláusula a Valencia (~1 M€), contrato 3 años",
+          "Real Madrid",
+          "Nuevo",
+          "2026-06-30"
+        ],
+        [
+          "Sergio Scariolo",
+          "Destituido tras una temporada en blanco (3 finales perdidas); finiquito ~5 M€",
+          "Real Madrid",
+          "Nuevo",
+          "2026-06-30"
         ],
         [
           "Tony Parker",
-          "Nuevo entrenador + 5 fichajes",
-          "ASVEL",
-          "Nuevo"
-        ],
-        [
-          "Álex Mumbrú",
-          "Nuevo entrenador",
-          "Virtus Bolonia",
-          "Nuevo"
+          "Leyenda NBA asume el banquillo del ASVEL del que es propietario en ambicioso proyecto",
+          "LDLC ASVEL",
+          "Nuevo",
+          "2026-06-27"
         ],
         [
           "Ibon Navarro",
-          "Nuevo entrenador",
-          "Crvena Zvezda",
-          "Nuevo"
+          "Ex Unicaja firma contrato largo (hasta 2029) con el FC Barcelona para reconstruir el proyecto azulgrana",
+          "FC Barcelona",
+          "Nuevo",
+          "2026-06-20"
         ],
         [
-          "Georgios Bartzokas",
-          "Renueva hasta 2029",
-          "Olympiacos",
-          "Renovado"
+          "Paolo Galbiati",
+          "Italiano releva a Pablo Laso en el Baskonia con contrato hasta 2027",
+          "Kosner Baskonia",
+          "Nuevo",
+          "2026-06-15"
         ],
         [
-          "Šarūnas Jasikevičius",
-          "Renueva hasta 2029",
-          "Fenerbahçe",
-          "Renovado"
+          "Sarunas Jasikevicius",
+          "Continúa al frente del Fenerbahçé con licencia hasta 2029, reforzando el plantel con 5+ fichajes top",
+          "Fenerbahçé Beko",
+          "Actual",
+          "2026-06-25"
         ],
         [
-          "Joan Peñarroya",
-          "Renueva hasta 2028",
-          "Partizan",
-          "Renovado"
+          "Željko Obradović",
+          "Sigue como técnico del Panathinaikos y da el visto bueno a fichajes como Badio y Fall",
+          "Panathinaikos",
+          "Actual",
+          "2026-06-26"
         ],
         [
-          "FC Bayern Múnich",
-          "Anuncia nuevo entrenador",
-          "Bayern",
-          "Nuevo"
+          "Xevi Pujol",
+          "Llega como nuevo director deportivo del Barça Basket; Xavi Pascual sale como entrenador",
+          "FC Barcelona",
+          "Nuevo",
+          "2026-06-18"
         ]
       ],
       "highlights": [
         [
-          "Olympiacos, por fin",
-          "El líder de la regular se corona campeón, 13 años después, ante el Madrid",
-          "TÍTULO"
+          "Pedro Martínez al Real Madrid",
+          "Real Madrid destituye a Scariolo y paga la cláusula de Pedro Martínez al Valencia Basket en la mayor revolución técnica del verano europeo; operación global >7 M€",
+          "BANQUILLO",
+          "2026-06-30"
         ],
         [
-          "Larkin a Fenerbahçe",
-          "El base sale del Efes para reforzar al rival turco",
-          "FICHAJE"
+          "Tony Parker, entrenador de ASVEL",
+          "La leyenda de la NBA y propietario del ASVEL asume el banquillo para la 2026-27 en una apuesta histórica, acompañado de grandes fichajes como Francisco, Theis y Weiler-Babb",
+          "FICHAJE",
+          "2026-06-27"
         ],
         [
-          "Obradović vuelve a un banquillo",
-          "El técnico serbio aterriza en el Panathinaikos",
-          "BANQUILLO"
+          "Shane Larkin al Fenerbahçé",
+          "Bombazó del mercado europeo: el ídolo y bicampeón de Euroliga con el Efes cruza el Bósforo para reforzar al rival Fenerbahçé de Jasikevicius en una revolución de 5+ fichajes top",
+          "FICHAJE",
+          "2026-06-25"
         ],
         [
-          "Valančiūnas, de vuelta a casa",
-          "Acuerdo con Žalgiris pendiente de su salida de la NBA",
-          "FICHAJE"
+          "EuroLeague 2026-27: Beşiktaş y París con wildcard, expansión a 24 en 2027-28",
+          "El Board de la ECA aprueba los 20 equipos (Beşiktaş reemplaza a Mónaco), la nueva Supercopa (18-19 sep), y el inicio del proceso de franquicias con valoración ya de 1.400 M€",
+          "TÍTULO",
+          "2026-06-26"
         ]
       ],
       "sources": [
