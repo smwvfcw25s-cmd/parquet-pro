@@ -1,6 +1,6 @@
 {
-  "updated": "2026-07-01T00:53:05.105600+00:00Z",
-  "updatedLabel": "1 jul 2026",
+  "updated": "2026-06-30T09:00:00Z",
+  "updatedLabel": "30 jun 2026",
   "leagues": {
     "nba": {
       "champion": "New York Knicks",
@@ -183,159 +183,90 @@
       },
       "transfers": [
         [
-          "Giannis Antetokounmpo",
-          "Traspaso blockbuster; llega para jugar con Bam Adebayo",
-          "Milwaukee Bucks",
-          "Miami Heat",
+          "Miles Bridges",
+          "Traspaso a Phoenix",
+          "Charlotte",
+          "Phoenix Suns",
           "Confirmado"
+        ],
+        [
+          "Marcus Smart",
+          "Acuerdo reportado a 3 años",
+          "Lakers",
+          "Houston Rockets",
+          "Reportado"
+        ],
+        [
+          "Giannis Antetokounmpo",
+          "Traspaso bomba con Miami implicado",
+          "Milwaukee",
+          "Miami Heat",
+          "Reportado"
+        ],
+        [
+          "Jonas Valančiūnas",
+          "Saldría de la NBA rumbo a Žalgiris",
+          "Denver",
+          "Žalgiris",
+          "Reportado"
         ],
         [
           "Kawhi Leonard",
-          "Regresa a Toronto; los Clippers reciben a B. Ingram, G. Dick y futuras rondas",
+          "Rumores de traspaso",
           "LA Clippers",
-          "Toronto Raptors",
-          "Confirmado"
-        ],
-        [
-          "LaMelo Ball",
-          "Traspaso por Naz Reid y un paquete de picks; backcourt con Anthony Edwards",
-          "Charlotte Hornets",
-          "Minnesota Timberwolves",
-          "Confirmado"
-        ],
-        [
-          "Ja Morant",
-          "Cambiado por Jerami Grant y Kris Murray; nueva oportunidad en Portland",
-          "Memphis Grizzlies",
-          "Portland Trail Blazers",
-          "Confirmado"
-        ],
-        [
-          "LeBron James",
-          "Deja los Lakers como agente libre; Warriors, Cavaliers y Heat como principales destinos",
-          "LA Lakers",
-          "Por determinar",
-          "Reportado"
-        ],
-        [
-          "Andrew Wiggins",
-          "Renueva con Miami por 3 años y 64 M$; primer año en torno a los 30,2 M$",
-          "Miami Heat",
-          "Miami Heat",
-          "Confirmado"
-        ],
-        [
-          "Draymond Green",
-          "Rechazó opción de 27,7 M$ con Golden State para explorar mercado libre",
-          "Golden State Warriors",
-          "Por determinar",
-          "Confirmado"
-        ],
-        [
-          "James Harden",
-          "Rechazó opción de 42,3 M$; negocia nuevo contrato plurianual con Cleveland",
-          "Cleveland Cavaliers",
-          "Cleveland Cavaliers",
-          "Acuerdo"
-        ],
-        [
-          "Robert Williams III",
-          "Renovó por 3 años y 44 M$ con Portland",
-          "Portland Trail Blazers",
-          "Portland Trail Blazers",
-          "Confirmado"
-        ],
-        [
-          "Jalen Duren",
-          "Agente libre restringido All-Star; Detroit ofrece el máximo y rechaza sign-and-trade",
-          "Detroit Pistons",
-          "Detroit Pistons",
-          "Reportado"
-        ],
-        [
-          "Walker Kessler",
-          "Agente libre restringido; mantiene reuniones en LA con Lakers y otros equipos",
-          "Utah Jazz",
-          "Por determinar",
+          "Mavericks / Raptors",
           "Rumor"
         ],
         [
-          "Tim Hardaway Jr.",
-          "Firma por 1 año y 6,5 M$ con Miami Heat",
-          "Denver Nuggets",
-          "Miami Heat",
-          "Confirmado"
+          "LeBron James",
+          "Agente libre, conversaciones con Lakers estancadas",
+          "Lakers",
+          "—",
+          "Rumor"
+        ],
+        [
+          "Robert Williams III",
+          "Salida esperada de Portland",
+          "Portland",
+          "Lakers / Celtics",
+          "Rumor"
+        ],
+        [
+          "Naz Reid",
+          "Objetivo de los Lakers",
+          "Charlotte",
+          "Lakers",
+          "Rumor"
         ]
       ],
       "coaches": [
         [
-          "Taylor Jenkins",
-          "Contratado como nuevo HC de Milwaukee tras salida de Doc Rivers",
-          "Milwaukee Bucks",
-          "Nuevo"
-        ],
-        [
-          "Jamahl Mosley",
-          "Contratado como nuevo HC de Nueva Orleans; venía de Orlando",
-          "New Orleans Pelicans",
-          "Nuevo"
-        ],
-        [
-          "Sean Sweeney",
-          "Contratado como nuevo HC de Orlando; ex asistente de San Antonio",
-          "Orlando Magic",
-          "Nuevo"
-        ],
-        [
-          "Dusty May",
-          "Contratado como nuevo HC de Dallas; campeón NCAA 2026 con Michigan",
-          "Dallas Mavericks",
-          "Nuevo"
-        ],
-        [
-          "Tiago Splitter",
-          "Contratado como nuevo HC de Chicago; deja Portland donde fue interino",
-          "Chicago Bulls",
-          "Nuevo"
-        ],
-        [
-          "Jason Kidd",
-          "Despedido por Dallas Mavericks tras 5 temporadas; reemplazado por Dusty May",
-          "Dallas Mavericks",
-          "Nuevo"
-        ],
-        [
-          "Billy Donovan",
-          "Renunció voluntariamente a los Bulls tras reconstrucción del equipo",
-          "Chicago Bulls",
-          "Nuevo"
-        ],
-        [
-          "Erik Spoelstra",
-          "Sigue como HC del Heat; entrenador activo con más antigüedad en la NBA",
-          "Miami Heat",
+          "Mike Brown",
+          "Campeón con los Knicks en su 1.ª temporada",
+          "New York Knicks",
           "Actual"
+        ],
+        [
+          "Portland Trail Blazers",
+          "Contratan nuevo entrenador (29 jun)",
+          "Portland",
+          "Nuevo"
         ]
       ],
       "highlights": [
         [
-          "New York Knicks",
-          "Campeones NBA 2025-26; primera vez en décadas que ganan el título",
+          "Knicks campeones",
+          "Nueva York gana su 3.º anillo, 1.º desde 1973, ante los Spurs (4-1)",
           "TÍTULO"
         ],
         [
-          "Giannis a Miami + LeBron libre",
-          "El offseason más agitado en años: Giannis a Heat, LeBron deja Lakers y Kawhi vuelve a Toronto el mismo día de inicio de libre mercado",
-          "FICHAJE"
+          "OKC, muralla en el Oeste",
+          "Thunder cierran con el mejor balance (64-18)",
+          "RESULTADO"
         ],
         [
-          "Dusty May a Dallas Mavericks",
-          "El campeón universitario NCAA 2026 con Michigan da el salto a la NBA como HC de los Mavs y Cooper Flagg",
-          "BANQUILLO"
-        ],
-        [
-          "LaMelo Ball a Minnesota",
-          "Los Timberwolves forman el dúo Ball-Edwards; el offseason más activo del equipo en años a costa de casi toda su reserva de picks",
+          "Giannis, terremoto",
+          "Reportado un traspaso bomba con Miami en escena",
           "FICHAJE"
         ]
       ],
@@ -370,7 +301,8 @@
           "Bobby Marks",
           "https://x.com/BobbyMarks42"
         ]
-      ]
+      ],
+      "rosters": {}
     },
     "euroliga": {
       "champion": "Olympiacos",
@@ -463,160 +395,181 @@
       },
       "transfers": [
         [
-          "Dario Saric",
-          "Contrato 2 años + opción firmado con Efes",
-          "Agente libre",
+          "Shane Larkin",
+          "Fichaje estrella",
           "Anadolu Efes",
-          "Confirmado"
-        ],
-        [
-          "Matthew Strazel",
-          "Llega procedente de Monaco tras su gran temporada",
-          "AS Monaco",
-          "Anadolu Efes",
-          "Confirmado"
-        ],
-        [
-          "Jordan Loyd",
-          "Regresa a Estambul con contrato hasta 2028",
-          "Agente libre",
-          "Anadolu Efes",
-          "Confirmado"
-        ],
-        [
-          "Sylvain Francisco",
-          "Primera gran incorporación del proyecto Tony Parker",
-          "FC Barcelona",
-          "ASVEL",
-          "Confirmado"
-        ],
-        [
-          "Daniel Theis",
-          "Exjugador NBA refuerza la pintura de ASVEL",
-          "Agente libre",
-          "ASVEL",
-          "Confirmado"
-        ],
-        [
-          "Nick Weiler-Babb",
-          "Se une al nuevo proyecto de Parker en Lyon",
-          "Anadolu Efes",
-          "ASVEL",
-          "Confirmado"
-        ],
-        [
-          "Brancou Badio",
-          "Acuerdo hasta 2029; Panathinaikos paga buyout a Valencia",
-          "Valencia Basket",
-          "Panathinaikos",
+          "Fenerbahçe",
           "Confirmado"
         ],
         [
           "Shavon Shields",
-          "Firma con Fenerbahce para reforzar el perímetro",
-          "Agente libre",
-          "Fenerbahce Beko",
+          "Refuerzo exterior",
+          "Olimpia Milán",
+          "Fenerbahçe",
+          "Confirmado"
+        ],
+        [
+          "Jonas Valančiūnas",
+          "Acordado, pendiente de salir de la NBA",
+          "Denver (NBA)",
+          "Žalgiris",
+          "Acuerdo"
+        ],
+        [
+          "TJ Shorts",
+          "Cambio de gigante griego a la ACB",
+          "Panathinaikos",
+          "Valencia Basket",
+          "Confirmado"
+        ],
+        [
+          "Matthew Strazel",
+          "Base internacional francés",
+          "AS Mónaco",
+          "Anadolu Efes",
+          "Confirmado"
+        ],
+        [
+          "Dario Šarić",
+          "Regreso a Europa",
+          "NBA",
+          "Anadolu Efes",
+          "Confirmado"
+        ],
+        [
+          "Moustapha Fall",
+          "Pívot del campeón al rival",
+          "Olympiacos",
+          "Panathinaikos",
+          "Confirmado"
+        ],
+        [
+          "Bonzie Colson",
+          "Regresa a Tel Aviv",
+          "Fenerbahçe",
+          "Maccabi",
           "Confirmado"
         ],
         [
           "Johannes Thiemann",
-          "Pívot alemán llega al Bayern para la 2026-27",
-          "ALBA Berlin",
-          "Bayern Munich",
+          "Campeón del mundo al Bayern",
+          "Partizan",
+          "Bayern Múnich",
           "Confirmado"
         ],
         [
-          "Carsen Edwards",
-          "Base exVirtus Bologna firma contrato plurianual",
-          "Virtus Bologna",
-          "Zalgiris",
+          "DJ Stewart",
+          "Alero versátil",
+          "—",
+          "Baskonia",
           "Confirmado"
         ],
         [
-          "Shane Larkin",
-          "Posible salto de Efes a Fenerbahce; negociaciones en curso",
-          "Anadolu Efes",
-          "Fenerbahce Beko",
+          "Chris Jones",
+          "Base con experiencia",
+          "—",
+          "Crvena Zvezda",
+          "Confirmado"
+        ],
+        [
+          "Alec Peters",
+          "Ala-pívot tirador",
+          "Olympiacos",
+          "Olimpia Milán",
+          "Confirmado"
+        ],
+        [
+          "Jaime Pradilla",
+          "Oferta de 11M€ del Madrid",
+          "Valencia",
+          "Real Madrid",
           "Rumor"
         ],
         [
-          "Moses Wright",
-          "Acuerdo verbal confirmado con el Barça",
-          "Zalgiris",
+          "Nando De Colo",
+          "Se retira",
+          "—",
+          "—",
+          "Retiro"
+        ],
+        [
+          "Jan Vesely",
+          "Se retira",
           "FC Barcelona",
-          "Confirmado"
+          "—",
+          "Retiro"
         ]
       ],
       "coaches": [
         [
-          "Sergio Scariolo",
-          "Destituido tras una temporada en blanco; finiquito ~5M€",
-          "Real Madrid",
-          "Nuevo"
-        ],
-        [
-          "Pedro Martínez",
-          "Elegido sustituto de Scariolo; contrato 3 años ~2M€/año",
-          "Valencia Basket → Real Madrid",
+          "Željko Obradović",
+          "Nuevo entrenador (sale Ergin Ataman)",
+          "Panathinaikos",
           "Nuevo"
         ],
         [
           "Tony Parker",
-          "Estrella NBA se convierte en entrenador; contrato 2+3 años, ~1,2M€/año",
-          "ASVEL (presidente)",
+          "Nuevo entrenador + 5 fichajes",
+          "ASVEL",
           "Nuevo"
         ],
         [
-          "Anton Gavel",
-          "Ex capitán del Bayern; reemplaza al retirado Svetislav Pesic; contrato 3 años",
-          "Brose Bamberg → Bayern Munich",
+          "Álex Mumbrú",
+          "Nuevo entrenador",
+          "Virtus Bolonia",
           "Nuevo"
         ],
         [
-          "Zeljko Obradovic",
-          "Regresa al Panathinaikos; contrato 3 años, ~4M€/año",
-          "Sin equipo (ex Partizan)",
-          "Nuevo"
-        ],
-        [
-          "Xavi Pascual",
-          "Activa cláusula de rescisión y abandona el Barça; se incorpora a Dubai Basketball",
-          "FC Barcelona",
-          "Nuevo"
-        ],
-        [
-          "Paolo Galbiati",
-          "Elegido nuevo entrenador del Barça; sustituye a Pascual; sin anuncio oficial aún",
-          "Baskonia → FC Barcelona",
+          "Ibon Navarro",
+          "Nuevo entrenador",
+          "Crvena Zvezda",
           "Nuevo"
         ],
         [
           "Georgios Bartzokas",
-          "Renovación oficial por 3 años más hasta 2029 tras ganar la EuroLeague",
+          "Renueva hasta 2029",
           "Olympiacos",
           "Renovado"
+        ],
+        [
+          "Šarūnas Jasikevičius",
+          "Renueva hasta 2029",
+          "Fenerbahçe",
+          "Renovado"
+        ],
+        [
+          "Joan Peñarroya",
+          "Renueva hasta 2028",
+          "Partizan",
+          "Renovado"
+        ],
+        [
+          "FC Bayern Múnich",
+          "Anuncia nuevo entrenador",
+          "Bayern",
+          "Nuevo"
         ]
       ],
       "highlights": [
         [
-          "Olympiacos Piraeus",
-          "Campeón de la EuroLeague 2025-26 al vencer a Real Madrid 92-85 en Atenas; Evan Fournier MVP del Final Four",
+          "Olympiacos, por fin",
+          "El líder de la regular se corona campeón, 13 años después, ante el Madrid",
           "TÍTULO"
         ],
         [
-          "Real Madrid baloncesto",
-          "Scariolo despedido y Pedro Martínez (Valencia) elegido nuevo técnico; operación global supera los 7M€",
-          "BANQUILLO"
-        ],
-        [
-          "ASVEL Villeurbanne",
-          "Tony Parker asume el banquillo con presupuesto récord de 58M€ y varios fichajes de nivel EuroLeague",
+          "Larkin a Fenerbahçe",
+          "El base sale del Efes para reforzar al rival turco",
           "FICHAJE"
         ],
         [
-          "Besiktas Istanbul",
-          "Entra en la EuroLeague 2026-27 en sustitución de AS Monaco, que pierde su plaza de wildcard",
-          "RESULTADO"
+          "Obradović vuelve a un banquillo",
+          "El técnico serbio aterriza en el Panathinaikos",
+          "BANQUILLO"
+        ],
+        [
+          "Valančiūnas, de vuelta a casa",
+          "Acuerdo con Žalgiris pendiente de su salida de la NBA",
+          "FICHAJE"
         ]
       ],
       "sources": [
@@ -1110,160 +1063,76 @@
       },
       "transfers": [
         [
-          "Cameron Hunt",
-          "Escolta (15,6 pts/pj en Joventut) fichado por 2 temporadas",
-          "Asisa Joventut",
-          "Unicaja",
-          "Confirmado"
-        ],
-        [
-          "Bastien Vautier",
-          "Pívot francés (2,10 m) procedente del ASVEL, firma 1 temporada",
-          "ASVEL Villeurbanne",
-          "Surne Bilbao",
-          "Confirmado"
-        ],
-        [
-          "Andrzej Pluta",
-          "Exterior polaco 24 años, MVP liga polaca; ocupa plaza JFL",
-          "Legia Warszawa",
-          "Bàsquet Girona",
-          "Confirmado"
-        ],
-        [
-          "Lazar Mutic",
-          "Alero bosnio 27 años, ocupa plaza de formación local",
-          "Libre",
-          "MoraBanc Andorra",
-          "Confirmado"
-        ],
-        [
-          "Dewayne Stewart Jr.",
-          "Exterior 26 años procedente de Cedevita Olimpija",
-          "Cedevita Olimpija",
-          "Kosner Baskonia",
-          "Confirmado"
-        ],
-        [
-          "Melwin Pantzar",
-          "Base sueco sale de Bilbao y ficha por Unicaja",
-          "Surne Bilbao",
-          "Unicaja",
-          "Confirmado"
-        ],
-        [
-          "Ferran Bassas",
-          "Base renueva hasta 2028 tras llegar cedido del MoraBanc",
-          "MoraBanc Andorra",
-          "BAXI Manresa (renov.)",
-          "Confirmado"
-        ],
-        [
-          "Trent Forrest",
-          "MVP Copa del Rey 2026; no renueva y sale libre",
-          "Kosner Baskonia",
-          "Libre (apunta Fenerbahçe)",
-          "Confirmado"
-        ],
-        [
-          "Jean Montero",
-          "MVP Final ACB 2026; no sigue en Valencia, destino por confirmar",
+          "Darius Thompson",
+          "Se desvincula del club",
           "Valencia Basket",
-          "Por determinar",
+          "—",
           "Confirmado"
         ],
         [
-          "Willy Hernangómez",
-          "No renovado; el Barça no ejerce opción de continuidad",
-          "FC Barcelona",
-          "Libre",
+          "Marcis Steinbergs",
+          "Refuerzo interior letón",
+          "Kids&Us Manresa",
+          "UCAM Murcia",
           "Confirmado"
         ],
         [
-          "Andrew Albicy",
-          "Tras 6 temporadas en Gran Canaria, ficha por el Limoges",
-          "Dreamland Gran Canaria",
-          "Limoges (Francia)",
+          "Jonathan Barreiro",
+          "Renovación por una temporada",
+          "Unicaja",
+          "Unicaja",
           "Confirmado"
         ],
         [
-          "Gonzalo Corbalán",
-          "Base argentino llega a Madrid tras desvincularse del Barça",
-          "FC Barcelona",
-          "Real Madrid",
-          "Rumor"
+          "Rodrigo Seoane",
+          "Ficha y será cedido a Primera FEB",
+          "Tizona",
+          "Kids&Us Manresa",
+          "Confirmado"
+        ],
+        [
+          "TJ Shorts",
+          "Refuerzo de campanillas",
+          "Panathinaikos",
+          "Valencia Basket",
+          "Confirmado"
         ]
       ],
       "coaches": [
         [
           "Pedro Martínez",
-          "Campeón ACB con Valencia; Real Madrid paga 1M€ de cláusula; firma 3 años (1,2M netos/temp.); pendiente oficial",
-          "Real Madrid",
-          "Nuevo"
+          "Campeón de Liga con Valencia (2.º título del club)",
+          "Valencia Basket",
+          "Actual"
         ],
         [
           "Sergio Scariolo",
-          "Cesado; tenía contrato hasta 2028; recibirá finiquito ~5M€",
+          "Entrenador del Real Madrid (relevó a Chus Mateo)",
           "Real Madrid",
-          "Nuevo"
-        ],
-        [
-          "Txus Vidorreta",
-          "Sustituye a Ibon Navarro en Unicaja; contrato 2 temporadas",
-          "Unicaja",
-          "Nuevo"
-        ],
-        [
-          "Ibon Navarro",
-          "Deja Unicaja (7 títulos en 4,5 años) y ficha por el Estrella Roja (Euroliga)",
-          "Unicaja",
-          "Nuevo"
-        ],
-        [
-          "Paolo Galbiati",
-          "Continuidad confirmada por Baskonia pese a rumores de salida; cláusula de corte hasta el 5 de julio",
-          "Kosner Baskonia",
           "Actual"
         ],
         [
-          "Porfirio Fisac",
-          "Renovación acordada tras lograr la permanencia con Burgos",
-          "Recoletas Salud San Pablo Burgos",
-          "Renovado"
-        ],
-        [
-          "Jaume Ponsarnau",
-          "Sigue al frente de Surne Bilbao con proyecto renovado hasta 2029",
-          "Surne Bilbao",
+          "Néstor 'Che' García",
+          "Entrenador del Gran Canaria",
+          "Dreamland Gran Canaria",
           "Actual"
-        ],
-        [
-          "Xavi Pascual",
-          "No sigue en el Barça tras el subcampeonato ACB; el club busca sustituto",
-          "FC Barcelona",
-          "Nuevo"
         ]
       ],
       "highlights": [
         [
-          "Valencia Basket, campeón Liga Endesa 2025-26",
-          "Valencia ganó la final 3-1 al Barça (108-84 en el 4º partido); segunda Liga de su historia; Jean Montero MVP de la final",
+          "Valencia, campeón",
+          "El equipo de Pedro Martínez gana su 2.º título batiendo al Barça 3-1",
           "TÍTULO"
         ],
         [
-          "Bombazo: Pedro Martínez al Real Madrid",
-          "El técnico campeón con Valencia ficha por el Madrid pagando 1M€ de cláusula; Scariolo cesado con 2 años de contrato restantes",
-          "BANQUILLO"
+          "Montero, MVP",
+          "El base dominicano firma una final de época (23,8 pts, 30,3 de valoración)",
+          "RESULTADO"
         ],
         [
-          "Ibon Navarro deja Unicaja por el Estrella Roja",
-          "El entrenador más laureado de la historia del Unicaja (7 títulos) se marcha a la Euroliga serbia; Txus Vidorreta, nuevo técnico cajista",
-          "BANQUILLO"
-        ],
-        [
-          "Jean Montero, MVP final ACB, no sigue en Valencia",
-          "El dominicano (22 años) lideró el título taronja con medias de 24-6-29 en la final; su destino para 2026-27 está por confirmar",
-          "FICHAJE"
+          "Sorpresa del Barça",
+          "Quinto en la regular, llegó a la final por su lado del cuadro",
+          "RESULTADO"
         ]
       ],
       "sources": [
@@ -1297,7 +1166,240 @@
           "ACB",
           "https://x.com/ACBCOM"
         ]
-      ]
+      ],
+      "rosters": {}
+    },
+    "eurocup": {
+      "champion": "JL Bourg",
+      "championNote": "1.º título de EuroCup · barrió a Beşiktaş Gain 2-0 en la final · plaza EuroLeague 26/27",
+      "results": [],
+      "standings": {
+        "final": [
+          "JL Bourg",
+          "Beşiktaş Gain",
+          "Türk Telekom",
+          "Bahçeşehir College",
+          "Hapoel Jerusalem",
+          "London Lions",
+          "U-BT Cluj-Napoca",
+          "Budućnost",
+          "Cedevita Olimpija",
+          "Neptūnas"
+        ]
+      },
+      "transfers": [],
+      "coaches": [],
+      "highlights": [
+        [
+          "JL Bourg, campeón",
+          "El club francés gana su primera EuroCup ante el Beşiktaş",
+          "TÍTULO",
+          "2026-04-28"
+        ]
+      ],
+      "sources": [
+        [
+          "EuroCup oficial",
+          "https://www.euroleaguebasketball.net/eurocup/"
+        ],
+        [
+          "BasketNews",
+          "https://basketnews.com/leagues.html"
+        ]
+      ],
+      "accounts": [
+        [
+          "BasketNews",
+          "https://x.com/BasketNews_com"
+        ],
+        [
+          "Eurohoops",
+          "https://x.com/Eurohoopsnet"
+        ]
+      ],
+      "rosters": {}
+    },
+    "bcl": {
+      "champion": "Rytas Vilnius",
+      "championNote": "1.ª BCL · remontó 20 puntos y batió a AEK 92-86 (pró.) en la Final Four de Badalona",
+      "results": [],
+      "standings": {
+        "final": [
+          "Rytas Vilnius",
+          "AEK",
+          "Unicaja",
+          "La Laguna Tenerife",
+          "Alba Berlin",
+          "Galatasaray",
+          "U-BT Cluj-Napoca",
+          "Bahçeşehir College",
+          "Joventut",
+          "Dreamland Gran Canaria"
+        ]
+      },
+      "transfers": [],
+      "coaches": [],
+      "highlights": [
+        [
+          "Rytas, campeón",
+          "Los lituanos remontan a AEK y ganan su primera BCL",
+          "TÍTULO",
+          "2026-05-09"
+        ]
+      ],
+      "sources": [
+        [
+          "BCL oficial",
+          "https://www.championsleague.basketball/en"
+        ],
+        [
+          "BasketNews",
+          "https://basketnews.com/leagues.html"
+        ]
+      ],
+      "accounts": [
+        [
+          "BasketNews",
+          "https://x.com/BasketNews_com"
+        ],
+        [
+          "FIBA BCL",
+          "https://x.com/BasketballCL"
+        ]
+      ],
+      "rosters": {}
+    },
+    "bbl": {
+      "champion": "Por definir",
+      "championNote": "Playoffs 2025-26 (Bayern, Alba Berlín, Ulm y Bonn en cabeza)",
+      "results": [],
+      "standings": {
+        "final": [
+          "Bayern Munich",
+          "Alba Berlin",
+          "ratiopharm Ulm",
+          "Telekom Baskets Bonn",
+          "MHP Riesen Ludwigsburg",
+          "Niners Chemnitz",
+          "EWE Baskets Oldenburg",
+          "Würzburg Baskets"
+        ]
+      },
+      "transfers": [],
+      "coaches": [],
+      "highlights": [],
+      "sources": [
+        [
+          "easyCredit BBL",
+          "https://www.easycredit-bbl.de/"
+        ],
+        [
+          "Proballers",
+          "https://www.proballers.com/basketball/league/118/germany-easycredit-bbl"
+        ]
+      ],
+      "accounts": [
+        [
+          "easyCredit BBL",
+          "https://x.com/easyCredit_BBL"
+        ],
+        [
+          "BasketNews",
+          "https://x.com/BasketNews_com"
+        ]
+      ],
+      "rosters": {}
+    },
+    "lnb": {
+      "champion": "Por definir",
+      "championNote": "Playoffs 2025-26 (Mónaco, París, ASVEL y Le Mans en cabeza)",
+      "results": [],
+      "standings": {
+        "final": [
+          "AS Monaco",
+          "Paris Basketball",
+          "LDLC ASVEL",
+          "Le Mans",
+          "Cholet",
+          "Nanterre 92",
+          "SIG Strasbourg",
+          "JL Bourg",
+          "JDA Dijon",
+          "Saint-Quentin"
+        ]
+      },
+      "transfers": [],
+      "coaches": [],
+      "highlights": [],
+      "sources": [
+        [
+          "LNB oficial",
+          "https://www.lnb.fr/elite/"
+        ],
+        [
+          "BasketNews",
+          "https://basketnews.com/leagues.html"
+        ]
+      ],
+      "accounts": [
+        [
+          "LNB",
+          "https://x.com/LNBofficiel"
+        ],
+        [
+          "BeBasket",
+          "https://x.com/bebasketfr"
+        ]
+      ],
+      "rosters": {}
+    },
+    "bsl": {
+      "champion": "Fenerbahçe Beko",
+      "championNote": "13.º título turco y 3.º consecutivo · venció a Beşiktaş Gain en la final",
+      "results": [],
+      "standings": {
+        "final": [
+          "Fenerbahçe Beko",
+          "Beşiktaş Gain",
+          "Anadolu Efes",
+          "Galatasaray",
+          "Türk Telekom",
+          "Bahçeşehir College",
+          "Trabzonspor",
+          "Karşıyaka"
+        ]
+      },
+      "transfers": [],
+      "coaches": [],
+      "highlights": [
+        [
+          "Fenerbahçe, otra vez",
+          "13.º título turco y 3.º seguido, batiendo al Beşiktaş",
+          "TÍTULO",
+          "2026-06-05"
+        ]
+      ],
+      "sources": [
+        [
+          "TBF oficial",
+          "https://www.tbf.org.tr/"
+        ],
+        [
+          "Eurohoops",
+          "https://www.eurohoops.net/en/"
+        ]
+      ],
+      "accounts": [
+        [
+          "Eurohoops",
+          "https://x.com/Eurohoopsnet"
+        ],
+        [
+          "Sportando",
+          "https://x.com/Sportando"
+        ]
+      ],
+      "rosters": {}
     }
   }
 }
