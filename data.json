@@ -1,0 +1,1405 @@
+{
+  "updated": "2026-06-30T09:00:00Z",
+  "updatedLabel": "30 jun 2026",
+  "leagues": {
+    "nba": {
+      "champion": "New York Knicks",
+      "championNote": "3.º título, primero desde 1973 · venció a San Antonio Spurs 4-1 · técnico Mike Brown",
+      "results": [
+        [
+          "New York Knicks",
+          "San Antonio Spurs",
+          "4-1",
+          "Final NBA"
+        ],
+        [
+          "New York Knicks",
+          "San Antonio Spurs",
+          "105-95",
+          "Final · G5"
+        ],
+        [
+          "Oklahoma City Thunder",
+          "—",
+          "64-18",
+          "Mejor balance liga"
+        ]
+      ],
+      "standings": {
+        "east": [
+          [
+            "Detroit Pistons",
+            60,
+            22
+          ],
+          [
+            "Boston Celtics",
+            56,
+            26
+          ],
+          [
+            "New York Knicks",
+            53,
+            29
+          ],
+          [
+            "Cleveland Cavaliers",
+            52,
+            30
+          ],
+          [
+            "Toronto Raptors",
+            46,
+            36
+          ],
+          [
+            "Atlanta Hawks",
+            46,
+            36
+          ],
+          [
+            "Philadelphia 76ers",
+            45,
+            37
+          ],
+          [
+            "Orlando Magic",
+            45,
+            37
+          ],
+          [
+            "Charlotte Hornets",
+            44,
+            38
+          ],
+          [
+            "Miami Heat",
+            43,
+            39
+          ],
+          [
+            "Milwaukee Bucks",
+            32,
+            50
+          ],
+          [
+            "Chicago Bulls",
+            31,
+            51
+          ],
+          [
+            "Brooklyn Nets",
+            20,
+            62
+          ],
+          [
+            "Indiana Pacers",
+            19,
+            63
+          ],
+          [
+            "Washington Wizards",
+            17,
+            65
+          ]
+        ],
+        "west": [
+          [
+            "Oklahoma City Thunder",
+            64,
+            18
+          ],
+          [
+            "San Antonio Spurs",
+            62,
+            20
+          ],
+          [
+            "Denver Nuggets",
+            54,
+            28
+          ],
+          [
+            "Los Angeles Lakers",
+            53,
+            29
+          ],
+          [
+            "Houston Rockets",
+            52,
+            30
+          ],
+          [
+            "Minnesota Timberwolves",
+            49,
+            33
+          ],
+          [
+            "Portland Trail Blazers",
+            42,
+            40
+          ],
+          [
+            "Phoenix Suns",
+            45,
+            37
+          ],
+          [
+            "LA Clippers",
+            42,
+            40
+          ],
+          [
+            "Golden State Warriors",
+            37,
+            45
+          ],
+          [
+            "New Orleans Pelicans",
+            26,
+            56
+          ],
+          [
+            "Dallas Mavericks",
+            26,
+            56
+          ],
+          [
+            "Memphis Grizzlies",
+            25,
+            57
+          ],
+          [
+            "Sacramento Kings",
+            22,
+            60
+          ],
+          [
+            "Utah Jazz",
+            22,
+            60
+          ]
+        ]
+      },
+      "transfers": [
+        [
+          "Miles Bridges",
+          "Traspaso a Phoenix",
+          "Charlotte",
+          "Phoenix Suns",
+          "Confirmado"
+        ],
+        [
+          "Marcus Smart",
+          "Acuerdo reportado a 3 años",
+          "Lakers",
+          "Houston Rockets",
+          "Reportado"
+        ],
+        [
+          "Giannis Antetokounmpo",
+          "Traspaso bomba con Miami implicado",
+          "Milwaukee",
+          "Miami Heat",
+          "Reportado"
+        ],
+        [
+          "Jonas Valančiūnas",
+          "Saldría de la NBA rumbo a Žalgiris",
+          "Denver",
+          "Žalgiris",
+          "Reportado"
+        ],
+        [
+          "Kawhi Leonard",
+          "Rumores de traspaso",
+          "LA Clippers",
+          "Mavericks / Raptors",
+          "Rumor"
+        ],
+        [
+          "LeBron James",
+          "Agente libre, conversaciones con Lakers estancadas",
+          "Lakers",
+          "—",
+          "Rumor"
+        ],
+        [
+          "Robert Williams III",
+          "Salida esperada de Portland",
+          "Portland",
+          "Lakers / Celtics",
+          "Rumor"
+        ],
+        [
+          "Naz Reid",
+          "Objetivo de los Lakers",
+          "Charlotte",
+          "Lakers",
+          "Rumor"
+        ]
+      ],
+      "coaches": [
+        [
+          "Mike Brown",
+          "Campeón con los Knicks en su 1.ª temporada",
+          "New York Knicks",
+          "Actual"
+        ],
+        [
+          "Portland Trail Blazers",
+          "Contratan nuevo entrenador (29 jun)",
+          "Portland",
+          "Nuevo"
+        ]
+      ],
+      "highlights": [
+        [
+          "Knicks campeones",
+          "Nueva York gana su 3.º anillo, 1.º desde 1973, ante los Spurs (4-1)",
+          "TÍTULO"
+        ],
+        [
+          "OKC, muralla en el Oeste",
+          "Thunder cierran con el mejor balance (64-18)",
+          "RESULTADO"
+        ],
+        [
+          "Giannis, terremoto",
+          "Reportado un traspaso bomba con Miami en escena",
+          "FICHAJE"
+        ]
+      ],
+      "sources": [
+        [
+          "Basketball-Reference",
+          "https://www.basketball-reference.com/leagues/NBA_2026.html"
+        ],
+        [
+          "NBA.com standings",
+          "https://www.nba.com/standings"
+        ],
+        [
+          "BasketNews · NBA Rumors",
+          "https://basketnews.com/nba-rumors.html"
+        ]
+      ],
+      "accounts": [
+        [
+          "Shams Charania",
+          "https://x.com/ShamsCharania"
+        ],
+        [
+          "Marc Stein",
+          "https://x.com/TheSteinLine"
+        ],
+        [
+          "Chris Haynes",
+          "https://x.com/ChrisBHaynes"
+        ],
+        [
+          "Bobby Marks",
+          "https://x.com/BobbyMarks42"
+        ]
+      ],
+      "rosters": {}
+    },
+    "euroliga": {
+      "champion": "Olympiacos",
+      "championNote": "4.º título, primero en 13 años · líder de la fase regular · técnico Georgios Bartzokas",
+      "results": [
+        [
+          "Olympiacos",
+          "Real Madrid",
+          "92-85",
+          "Final"
+        ],
+        [
+          "Olympiacos",
+          "Fenerbahçe",
+          "79-61",
+          "Semifinal F4"
+        ],
+        [
+          "Real Madrid",
+          "Valencia Basket",
+          "105-90",
+          "Semifinal F4"
+        ]
+      ],
+      "standings": {
+        "playoffs": [
+          [
+            "1",
+            "Olympiacos",
+            "Campeón"
+          ],
+          [
+            "2",
+            "Valencia Basket",
+            "Semifinal"
+          ],
+          [
+            "3",
+            "Real Madrid",
+            "Subcampeón"
+          ],
+          [
+            "4",
+            "Fenerbahçe",
+            "Semifinal F4"
+          ],
+          [
+            "5",
+            "Žalgiris Kaunas",
+            "Cuartos"
+          ],
+          [
+            "6",
+            "Hapoel Tel Aviv",
+            "Cuartos"
+          ],
+          [
+            "7-10",
+            "AS Mónaco",
+            "Cuartos (play-in)"
+          ],
+          [
+            "7-10",
+            "Panathinaikos",
+            "Cuartos (play-in)"
+          ]
+        ],
+        "regularTop": [
+          [
+            "Olympiacos",
+            26,
+            12
+          ],
+          [
+            "Valencia Basket",
+            25,
+            13
+          ],
+          [
+            "Real Madrid",
+            24,
+            14
+          ],
+          [
+            "Fenerbahçe",
+            24,
+            14
+          ]
+        ]
+      },
+      "transfers": [
+        [
+          "Shane Larkin",
+          "Fichaje estrella",
+          "Anadolu Efes",
+          "Fenerbahçe",
+          "Confirmado"
+        ],
+        [
+          "Shavon Shields",
+          "Refuerzo exterior",
+          "Olimpia Milán",
+          "Fenerbahçe",
+          "Confirmado"
+        ],
+        [
+          "Jonas Valančiūnas",
+          "Acordado, pendiente de salir de la NBA",
+          "Denver (NBA)",
+          "Žalgiris",
+          "Acuerdo"
+        ],
+        [
+          "TJ Shorts",
+          "Cambio de gigante griego a la ACB",
+          "Panathinaikos",
+          "Valencia Basket",
+          "Confirmado"
+        ],
+        [
+          "Matthew Strazel",
+          "Base internacional francés",
+          "AS Mónaco",
+          "Anadolu Efes",
+          "Confirmado"
+        ],
+        [
+          "Dario Šarić",
+          "Regreso a Europa",
+          "NBA",
+          "Anadolu Efes",
+          "Confirmado"
+        ],
+        [
+          "Moustapha Fall",
+          "Pívot del campeón al rival",
+          "Olympiacos",
+          "Panathinaikos",
+          "Confirmado"
+        ],
+        [
+          "Bonzie Colson",
+          "Regresa a Tel Aviv",
+          "Fenerbahçe",
+          "Maccabi",
+          "Confirmado"
+        ],
+        [
+          "Johannes Thiemann",
+          "Campeón del mundo al Bayern",
+          "Partizan",
+          "Bayern Múnich",
+          "Confirmado"
+        ],
+        [
+          "DJ Stewart",
+          "Alero versátil",
+          "—",
+          "Baskonia",
+          "Confirmado"
+        ],
+        [
+          "Chris Jones",
+          "Base con experiencia",
+          "—",
+          "Crvena Zvezda",
+          "Confirmado"
+        ],
+        [
+          "Alec Peters",
+          "Ala-pívot tirador",
+          "Olympiacos",
+          "Olimpia Milán",
+          "Confirmado"
+        ],
+        [
+          "Jaime Pradilla",
+          "Oferta de 11M€ del Madrid",
+          "Valencia",
+          "Real Madrid",
+          "Rumor"
+        ],
+        [
+          "Nando De Colo",
+          "Se retira",
+          "—",
+          "—",
+          "Retiro"
+        ],
+        [
+          "Jan Vesely",
+          "Se retira",
+          "FC Barcelona",
+          "—",
+          "Retiro"
+        ]
+      ],
+      "coaches": [
+        [
+          "Željko Obradović",
+          "Nuevo entrenador (sale Ergin Ataman)",
+          "Panathinaikos",
+          "Nuevo"
+        ],
+        [
+          "Tony Parker",
+          "Nuevo entrenador + 5 fichajes",
+          "ASVEL",
+          "Nuevo"
+        ],
+        [
+          "Álex Mumbrú",
+          "Nuevo entrenador",
+          "Virtus Bolonia",
+          "Nuevo"
+        ],
+        [
+          "Ibon Navarro",
+          "Nuevo entrenador",
+          "Crvena Zvezda",
+          "Nuevo"
+        ],
+        [
+          "Georgios Bartzokas",
+          "Renueva hasta 2029",
+          "Olympiacos",
+          "Renovado"
+        ],
+        [
+          "Šarūnas Jasikevičius",
+          "Renueva hasta 2029",
+          "Fenerbahçe",
+          "Renovado"
+        ],
+        [
+          "Joan Peñarroya",
+          "Renueva hasta 2028",
+          "Partizan",
+          "Renovado"
+        ],
+        [
+          "FC Bayern Múnich",
+          "Anuncia nuevo entrenador",
+          "Bayern",
+          "Nuevo"
+        ]
+      ],
+      "highlights": [
+        [
+          "Olympiacos, por fin",
+          "El líder de la regular se corona campeón, 13 años después, ante el Madrid",
+          "TÍTULO"
+        ],
+        [
+          "Larkin a Fenerbahçe",
+          "El base sale del Efes para reforzar al rival turco",
+          "FICHAJE"
+        ],
+        [
+          "Obradović vuelve a un banquillo",
+          "El técnico serbio aterriza en el Panathinaikos",
+          "BANQUILLO"
+        ],
+        [
+          "Valančiūnas, de vuelta a casa",
+          "Acuerdo con Žalgiris pendiente de su salida de la NBA",
+          "FICHAJE"
+        ]
+      ],
+      "sources": [
+        [
+          "BasketNews · Mercado Euroliga",
+          "https://basketnews.com/news-248207-euroleague-transfer-market-2026-rosters-signings-rumors.html"
+        ],
+        [
+          "EuroLeague oficial",
+          "https://www.euroleaguebasketball.net/en/euroleague/standings/"
+        ],
+        [
+          "Eurohoops",
+          "https://www.eurohoops.net/en/"
+        ]
+      ],
+      "accounts": [
+        [
+          "BasketNews",
+          "https://x.com/BasketNews_com"
+        ],
+        [
+          "David Pick",
+          "https://x.com/IAmDPick"
+        ],
+        [
+          "Sportando",
+          "https://x.com/Sportando"
+        ],
+        [
+          "Eurohoops",
+          "https://x.com/Eurohoopsnet"
+        ]
+      ],
+      "rosters": {
+        "Real Madrid": [
+          [
+            "PG",
+            "Facundo Campazzo",
+            "Hasta 2027"
+          ],
+          [
+            "PG",
+            "Andrés Feliz",
+            "Hasta 2027"
+          ],
+          [
+            "PG",
+            "Theo Maledon",
+            "Hasta 2027"
+          ],
+          [
+            "SG",
+            "Sergio Llull",
+            "Renovado"
+          ],
+          [
+            "SG",
+            "David Kramer",
+            "Hasta 2027"
+          ],
+          [
+            "SG/SF",
+            "Gabriele Procida",
+            "Hasta 2028"
+          ],
+          [
+            "SF",
+            "Alberto Abalde",
+            "Hasta 2027"
+          ],
+          [
+            "SF/PF",
+            "Mario Hezonja",
+            "Hasta 2029"
+          ],
+          [
+            "PF",
+            "Chuma Okeke",
+            "Hasta 2027"
+          ],
+          [
+            "PF",
+            "Gabriel Deck",
+            "Hasta 2028"
+          ],
+          [
+            "PF/C",
+            "Izan Almansa",
+            "Hasta 2029"
+          ],
+          [
+            "C",
+            "Usman Garuba",
+            "Hasta 2027"
+          ],
+          [
+            "C",
+            "Edy Tavares",
+            "Hasta 2029"
+          ],
+          [
+            "C",
+            "Alex Len",
+            "Hasta 2026 +1"
+          ]
+        ],
+        "FC Barcelona": [
+          [
+            "PG",
+            "Juan Núñez",
+            "Hasta 2027"
+          ],
+          [
+            "PG",
+            "Juani Marcos",
+            "Hasta 2027"
+          ],
+          [
+            "PG",
+            "Tomas Satoransky",
+            "Finaliza (rumor salida)"
+          ],
+          [
+            "SG",
+            "Nicolás Laprovittola",
+            "Finaliza"
+          ],
+          [
+            "SG",
+            "Kevin Punter",
+            "Hasta 2027"
+          ],
+          [
+            "SG",
+            "Darío Brizuela",
+            "Hasta 2028"
+          ],
+          [
+            "SF",
+            "Will Clyburn",
+            "Hasta 2027"
+          ],
+          [
+            "PF",
+            "Joel Parra",
+            "Hasta 2028"
+          ],
+          [
+            "PF",
+            "Tornike Shengelia",
+            "Hasta 2028"
+          ],
+          [
+            "C",
+            "Willy Hernangómez",
+            "Finaliza (rumor salida)"
+          ],
+          [
+            "C",
+            "Youssoupha Fall",
+            "Finaliza"
+          ],
+          [
+            "—",
+            "Moses Wright / Josh Nebo / Nkamhoua",
+            "Entrantes"
+          ]
+        ],
+        "Valencia Basket": [
+          [
+            "PG",
+            "TJ Shorts",
+            "Ficha 26/27 (ex-Panathinaikos)"
+          ],
+          [
+            "PG",
+            "Jean Montero",
+            "Hasta 2028"
+          ],
+          [
+            "PG/SG",
+            "Omari Moore",
+            "Hasta 2027"
+          ],
+          [
+            "SG",
+            "Isaac Nogués",
+            "Hasta 2027"
+          ],
+          [
+            "SG",
+            "Sergio De Larrea",
+            "Multianual"
+          ],
+          [
+            "SG/SF",
+            "Josep Puerto",
+            "Hasta 2027"
+          ],
+          [
+            "SF",
+            "Kameron Taylor",
+            "Renueva (récord)"
+          ],
+          [
+            "SF",
+            "Xabi López-Aróstegui",
+            "Hasta 2027"
+          ],
+          [
+            "PF",
+            "Nate Reuvers",
+            "Hasta 2028"
+          ],
+          [
+            "PF/C",
+            "Jaime Pradilla",
+            "Hasta 2027 (oferta RM 11M€)"
+          ],
+          [
+            "C",
+            "Neal Sako",
+            "Hasta 2027"
+          ],
+          [
+            "C",
+            "Yankuba Sima",
+            "Hasta 2028"
+          ]
+        ],
+        "Baskonia": [
+          [
+            "PG",
+            "Rafa Villar",
+            "Hasta 2028"
+          ],
+          [
+            "PG",
+            "Kobi Simmons",
+            "Renueva hasta 2028"
+          ],
+          [
+            "PG",
+            "Matteo Spagnolo",
+            "Hasta 2028"
+          ],
+          [
+            "SG",
+            "Markus Howard",
+            "Hasta 2028"
+          ],
+          [
+            "SF",
+            "DJ Stewart",
+            "Ficha 26/27"
+          ],
+          [
+            "PF/SF",
+            "Clément Frisch",
+            "Hasta 2028"
+          ],
+          [
+            "PF",
+            "Rodions Kurucs",
+            "Hasta 2028"
+          ],
+          [
+            "PF",
+            "Tadas Sedekerskis",
+            "Hasta 2029"
+          ],
+          [
+            "C",
+            "Khalifa Diop",
+            "Largo plazo"
+          ],
+          [
+            "C/PF",
+            "Mamadi Diakité",
+            "Hasta 2027 (rumor salida)"
+          ]
+        ],
+        "Olympiacos": [
+          [
+            "PG",
+            "Thomas Walkup",
+            "Hasta 2026 +1"
+          ],
+          [
+            "PG",
+            "Cory Joseph",
+            "Hasta 2026 +1"
+          ],
+          [
+            "SG",
+            "Evan Fournier",
+            "Hasta 2029"
+          ],
+          [
+            "SG",
+            "Tyler Dorsey",
+            "Hasta 2027"
+          ],
+          [
+            "SF",
+            "Kostas Papanikolaou",
+            "Finaliza"
+          ],
+          [
+            "SF/PG",
+            "Tyson Ward",
+            "Hasta 2027"
+          ],
+          [
+            "PF",
+            "Sasha Vezenkov",
+            "Hasta 2029"
+          ],
+          [
+            "C",
+            "Nikola Milutinov",
+            "Hasta 2028"
+          ],
+          [
+            "C",
+            "Tyrique Jones",
+            "Hasta 2028"
+          ],
+          [
+            "C",
+            "Donta Hall",
+            "Hasta 2028"
+          ],
+          [
+            "PG",
+            "Codi Miller-McIntyre",
+            "Entrante"
+          ]
+        ],
+        "Panathinaikos": [
+          [
+            "PG",
+            "Jerian Grant",
+            "Hasta 2028"
+          ],
+          [
+            "SG",
+            "Kostas Sloukas",
+            "Hasta 2027"
+          ],
+          [
+            "SG",
+            "Kendrick Nunn",
+            "Hasta 2028"
+          ],
+          [
+            "SF",
+            "Cedi Osman",
+            "Hasta 2027"
+          ],
+          [
+            "PF",
+            "Juancho Hernangómez",
+            "Hasta 2027"
+          ],
+          [
+            "PF",
+            "Kostas Mitoglou",
+            "Hasta 2029"
+          ],
+          [
+            "PF",
+            "Nigel Hayes-Davis",
+            "Hasta 2028"
+          ],
+          [
+            "C",
+            "Mathias Lessort",
+            "Hasta 2028"
+          ],
+          [
+            "C",
+            "Moustapha Fall",
+            "Ficha 26/27 (ex-Olympiacos)"
+          ],
+          [
+            "SG",
+            "Brancou Badio",
+            "Entrante (ex-Valencia)"
+          ]
+        ],
+        "Fenerbahçe": [
+          [
+            "PG",
+            "Wade Baldwin IV",
+            "Hasta 2026 +1"
+          ],
+          [
+            "PG",
+            "Shane Larkin",
+            "Ficha 26/27 (ex-Efes)"
+          ],
+          [
+            "SG",
+            "Talen Horton-Tucker",
+            "Hasta 2027"
+          ],
+          [
+            "SF",
+            "Tarik Biberovic",
+            "Hasta 2028"
+          ],
+          [
+            "SF",
+            "Shavon Shields",
+            "Ficha 26/27 (ex-Milán)"
+          ],
+          [
+            "PF",
+            "Mikael Jantunen",
+            "Hasta 2027"
+          ],
+          [
+            "PF/C",
+            "Nicolò Melli",
+            "Renueva"
+          ],
+          [
+            "PF/SF",
+            "Braxton Key",
+            "Entrante (ex-Valencia)"
+          ],
+          [
+            "C",
+            "Chris Silva",
+            "Hasta 2026 +1"
+          ],
+          [
+            "C",
+            "Marcus Bingham",
+            "Entrante"
+          ]
+        ]
+      }
+    },
+    "endesa": {
+      "champion": "Valencia Basket",
+      "championNote": "2.º título de Liga · venció al Barça 3-1 (84-108 en el Palau) · técnico Pedro Martínez · MVP Jean Montero",
+      "results": [
+        [
+          "Valencia Basket",
+          "FC Barcelona",
+          "3-1",
+          "Final"
+        ],
+        [
+          "FC Barcelona",
+          "Valencia Basket",
+          "84-108",
+          "Final · G4"
+        ],
+        [
+          "Jean Montero",
+          "MVP del Playoff Final",
+          "23,8 pts",
+          "Premio"
+        ]
+      ],
+      "standings": {
+        "final": [
+          "Valencia Basket",
+          "Barça",
+          "Asisa Joventut",
+          "La Laguna Tenerife",
+          "Real Madrid",
+          "Kosner Baskonia",
+          "UCAM Murcia",
+          "Surne Bilbao",
+          "Unicaja",
+          "Kids&Us Manresa",
+          "Río Breogán",
+          "Bàsquet Girona",
+          "San Pablo Burgos",
+          "Hiopos Lleida",
+          "Casademont Zaragoza",
+          "MoraBanc Andorra",
+          "Dreamland Gran Canaria",
+          "Coviran Granada"
+        ]
+      },
+      "transfers": [
+        [
+          "Darius Thompson",
+          "Se desvincula del club",
+          "Valencia Basket",
+          "—",
+          "Confirmado"
+        ],
+        [
+          "Marcis Steinbergs",
+          "Refuerzo interior letón",
+          "Kids&Us Manresa",
+          "UCAM Murcia",
+          "Confirmado"
+        ],
+        [
+          "Jonathan Barreiro",
+          "Renovación por una temporada",
+          "Unicaja",
+          "Unicaja",
+          "Confirmado"
+        ],
+        [
+          "Rodrigo Seoane",
+          "Ficha y será cedido a Primera FEB",
+          "Tizona",
+          "Kids&Us Manresa",
+          "Confirmado"
+        ],
+        [
+          "TJ Shorts",
+          "Refuerzo de campanillas",
+          "Panathinaikos",
+          "Valencia Basket",
+          "Confirmado"
+        ]
+      ],
+      "coaches": [
+        [
+          "Pedro Martínez",
+          "Campeón de Liga con Valencia (2.º título del club)",
+          "Valencia Basket",
+          "Actual"
+        ],
+        [
+          "Sergio Scariolo",
+          "Entrenador del Real Madrid (relevó a Chus Mateo)",
+          "Real Madrid",
+          "Actual"
+        ],
+        [
+          "Néstor 'Che' García",
+          "Entrenador del Gran Canaria",
+          "Dreamland Gran Canaria",
+          "Actual"
+        ]
+      ],
+      "highlights": [
+        [
+          "Valencia, campeón",
+          "El equipo de Pedro Martínez gana su 2.º título batiendo al Barça 3-1",
+          "TÍTULO"
+        ],
+        [
+          "Montero, MVP",
+          "El base dominicano firma una final de época (23,8 pts, 30,3 de valoración)",
+          "RESULTADO"
+        ],
+        [
+          "Sorpresa del Barça",
+          "Quinto en la regular, llegó a la final por su lado del cuadro",
+          "RESULTADO"
+        ]
+      ],
+      "sources": [
+        [
+          "ACB oficial",
+          "https://www.acb.com/es/liga/clasificacion"
+        ],
+        [
+          "Gigantes del Basket",
+          "https://www.gigantes.com/liga-endesa/"
+        ],
+        [
+          "BasketNews · Ligas",
+          "https://basketnews.com/leagues.html"
+        ]
+      ],
+      "accounts": [
+        [
+          "Gigantes",
+          "https://x.com/gigantes"
+        ],
+        [
+          "Solobasket",
+          "https://x.com/solobasket"
+        ],
+        [
+          "Chema de Lucas",
+          "https://x.com/chemadelucas"
+        ],
+        [
+          "ACB",
+          "https://x.com/ACBCOM"
+        ]
+      ],
+      "rosters": {}
+    },
+    "eurocup": {
+      "champion": "JL Bourg",
+      "championNote": "1.º título de EuroCup · barrió a Beşiktaş Gain 2-0 en la final · plaza EuroLeague 26/27",
+      "results": [],
+      "standings": {
+        "final": [
+          "JL Bourg",
+          "Beşiktaş Gain",
+          "Türk Telekom",
+          "Bahçeşehir College",
+          "Hapoel Jerusalem",
+          "London Lions",
+          "U-BT Cluj-Napoca",
+          "Budućnost",
+          "Cedevita Olimpija",
+          "Neptūnas"
+        ]
+      },
+      "transfers": [],
+      "coaches": [],
+      "highlights": [
+        [
+          "JL Bourg, campeón",
+          "El club francés gana su primera EuroCup ante el Beşiktaş",
+          "TÍTULO",
+          "2026-04-28"
+        ]
+      ],
+      "sources": [
+        [
+          "EuroCup oficial",
+          "https://www.euroleaguebasketball.net/eurocup/"
+        ],
+        [
+          "BasketNews",
+          "https://basketnews.com/leagues.html"
+        ]
+      ],
+      "accounts": [
+        [
+          "BasketNews",
+          "https://x.com/BasketNews_com"
+        ],
+        [
+          "Eurohoops",
+          "https://x.com/Eurohoopsnet"
+        ]
+      ],
+      "rosters": {}
+    },
+    "bcl": {
+      "champion": "Rytas Vilnius",
+      "championNote": "1.ª BCL · remontó 20 puntos y batió a AEK 92-86 (pró.) en la Final Four de Badalona",
+      "results": [],
+      "standings": {
+        "final": [
+          "Rytas Vilnius",
+          "AEK",
+          "Unicaja",
+          "La Laguna Tenerife",
+          "Alba Berlin",
+          "Galatasaray",
+          "U-BT Cluj-Napoca",
+          "Bahçeşehir College",
+          "Joventut",
+          "Dreamland Gran Canaria"
+        ]
+      },
+      "transfers": [],
+      "coaches": [],
+      "highlights": [
+        [
+          "Rytas, campeón",
+          "Los lituanos remontan a AEK y ganan su primera BCL",
+          "TÍTULO",
+          "2026-05-09"
+        ]
+      ],
+      "sources": [
+        [
+          "BCL oficial",
+          "https://www.championsleague.basketball/en"
+        ],
+        [
+          "BasketNews",
+          "https://basketnews.com/leagues.html"
+        ]
+      ],
+      "accounts": [
+        [
+          "BasketNews",
+          "https://x.com/BasketNews_com"
+        ],
+        [
+          "FIBA BCL",
+          "https://x.com/BasketballCL"
+        ]
+      ],
+      "rosters": {}
+    },
+    "bbl": {
+      "champion": "Por definir",
+      "championNote": "Playoffs 2025-26 (Bayern, Alba Berlín, Ulm y Bonn en cabeza)",
+      "results": [],
+      "standings": {
+        "final": [
+          "Bayern Munich",
+          "Alba Berlin",
+          "ratiopharm Ulm",
+          "Telekom Baskets Bonn",
+          "MHP Riesen Ludwigsburg",
+          "Niners Chemnitz",
+          "EWE Baskets Oldenburg",
+          "Würzburg Baskets"
+        ]
+      },
+      "transfers": [],
+      "coaches": [],
+      "highlights": [],
+      "sources": [
+        [
+          "easyCredit BBL",
+          "https://www.easycredit-bbl.de/"
+        ],
+        [
+          "Proballers",
+          "https://www.proballers.com/basketball/league/118/germany-easycredit-bbl"
+        ]
+      ],
+      "accounts": [
+        [
+          "easyCredit BBL",
+          "https://x.com/easyCredit_BBL"
+        ],
+        [
+          "BasketNews",
+          "https://x.com/BasketNews_com"
+        ]
+      ],
+      "rosters": {}
+    },
+    "lnb": {
+      "champion": "Por definir",
+      "championNote": "Playoffs 2025-26 (Mónaco, París, ASVEL y Le Mans en cabeza)",
+      "results": [],
+      "standings": {
+        "final": [
+          "AS Monaco",
+          "Paris Basketball",
+          "LDLC ASVEL",
+          "Le Mans",
+          "Cholet",
+          "Nanterre 92",
+          "SIG Strasbourg",
+          "JL Bourg",
+          "JDA Dijon",
+          "Saint-Quentin"
+        ]
+      },
+      "transfers": [],
+      "coaches": [],
+      "highlights": [],
+      "sources": [
+        [
+          "LNB oficial",
+          "https://www.lnb.fr/elite/"
+        ],
+        [
+          "BasketNews",
+          "https://basketnews.com/leagues.html"
+        ]
+      ],
+      "accounts": [
+        [
+          "LNB",
+          "https://x.com/LNBofficiel"
+        ],
+        [
+          "BeBasket",
+          "https://x.com/bebasketfr"
+        ]
+      ],
+      "rosters": {}
+    },
+    "bsl": {
+      "champion": "Fenerbahçe Beko",
+      "championNote": "13.º título turco y 3.º consecutivo · venció a Beşiktaş Gain en la final",
+      "results": [],
+      "standings": {
+        "final": [
+          "Fenerbahçe Beko",
+          "Beşiktaş Gain",
+          "Anadolu Efes",
+          "Galatasaray",
+          "Türk Telekom",
+          "Bahçeşehir College",
+          "Trabzonspor",
+          "Karşıyaka"
+        ]
+      },
+      "transfers": [],
+      "coaches": [],
+      "highlights": [
+        [
+          "Fenerbahçe, otra vez",
+          "13.º título turco y 3.º seguido, batiendo al Beşiktaş",
+          "TÍTULO",
+          "2026-06-05"
+        ]
+      ],
+      "sources": [
+        [
+          "TBF oficial",
+          "https://www.tbf.org.tr/"
+        ],
+        [
+          "Eurohoops",
+          "https://www.eurohoops.net/en/"
+        ]
+      ],
+      "accounts": [
+        [
+          "Eurohoops",
+          "https://x.com/Eurohoopsnet"
+        ],
+        [
+          "Sportando",
+          "https://x.com/Sportando"
+        ]
+      ],
+      "rosters": {}
+    }
+  }
+}
